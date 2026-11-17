@@ -1,2 +1,2 @@
 # Aegis-TG
-An Ai-powered Threat-Intelligenc Telegram Management System 
+An AI-powered Threat-Intelligenc Telegram Management System 
